@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "m5OmB5SW0sjxcno5ZuhDIEo7ISx0cMtCNr2bDNiRfeL/2hbbJdlGlP2XzeTvu944ueoZ3JPAfdHyJ7VQ5/v6pQ==",
+  "dgSpecHash": "LwAeYPwE2XfdYOXOGH3xGMs7XLsG91qKCDFXl1/1iX6C/I3yfOB3Cl03n11bMVS9THcOYx8GYkY7ZuY72y64ZA==",
   "success": true,
-  "projectFilePath": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,40 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\devOut\\AprendeJa\\AprendaJa.Api\\AprendaJa.Api.csproj": {}
+    "C:\\Dev\\AprendaJa\\AprendaJa.Api\\AprendaJa.Api.csproj": {}
   },
   "projects": {
-    "C:\\devOut\\AprendeJa\\AprendaJa.Api\\AprendaJa.Api.csproj": {
+    "C:\\Dev\\AprendaJa\\AprendaJa.Api\\AprendaJa.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devOut\\AprendeJa\\AprendaJa.Api\\AprendaJa.Api.csproj",
+        "projectUniqueName": "C:\\Dev\\AprendaJa\\AprendaJa.Api\\AprendaJa.Api.csproj",
         "projectName": "AprendaJa.Api",
-        "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Api\\AprendaJa.Api.csproj",
-        "packagesPath": "C:\\Users\\paulo.aguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\devOut\\AprendeJa\\AprendaJa.Api\\obj\\",
+        "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Api\\AprendaJa.Api.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\AprendaJa\\AprendaJa.Api\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paulo.aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\devOut\\AprendeJa\\AprendaJa.Application\\AprendaJa.Application.csproj": {
-                "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Application\\AprendaJa.Application.csproj"
+              "C:\\Dev\\AprendaJa\\AprendaJa.Application\\AprendaJa.Application.csproj": {
+                "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Application\\AprendaJa.Application.csproj"
               }
             }
           }
@@ -64,6 +57,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -72,44 +83,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\devOut\\AprendeJa\\AprendaJa.Application\\AprendaJa.Application.csproj": {
+    "C:\\Dev\\AprendaJa\\AprendaJa.Application\\AprendaJa.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devOut\\AprendeJa\\AprendaJa.Application\\AprendaJa.Application.csproj",
+        "projectUniqueName": "C:\\Dev\\AprendaJa\\AprendaJa.Application\\AprendaJa.Application.csproj",
         "projectName": "AprendaJa.Application",
-        "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Application\\AprendaJa.Application.csproj",
-        "packagesPath": "C:\\Users\\paulo.aguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\devOut\\AprendeJa\\AprendaJa.Application\\obj\\",
+        "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Application\\AprendaJa.Application.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\AprendaJa\\AprendaJa.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paulo.aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
-                "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj"
+              "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
+                "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj"
               },
-              "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj": {
-                "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj"
+              "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj": {
+                "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj"
               }
             }
           }
@@ -133,38 +137,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
+    "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
+        "projectUniqueName": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
         "projectName": "AprendaJa.Domain",
-        "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
-        "packagesPath": "C:\\Users\\paulo.aguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\obj\\",
+        "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paulo.aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -192,46 +203,53 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj": {
+    "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj",
+        "projectUniqueName": "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj",
         "projectName": "AprendaJa.Persistence",
-        "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj",
-        "packagesPath": "C:\\Users\\paulo.aguiar\\.nuget\\packages\\",
-        "outputPath": "C:\\devOut\\AprendeJa\\AprendaJa.Persistence\\obj\\",
+        "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj",
+        "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
+        "outputPath": "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\paulo.aguiar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
-                "projectPath": "C:\\devOut\\AprendeJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj"
+              "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj": {
+                "projectPath": "C:\\Dev\\AprendaJa\\AprendaJa.Domain\\AprendaJa.Domain.csproj"
               }
             }
           }
@@ -271,12 +289,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }
