@@ -93,6 +93,7 @@ C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\scopedcss\bundle\AprendaJa.Api.s
 C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\staticwebassets\AprendaJa.Api.StaticWebAssets.Manifest.cache
 C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.RazorTargetAssemblyInfo.cache
 C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.csproj.CopyComplete
-C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\refint\AprendaJa.Api.dll
 C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.genruntimeconfig.cache
 C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\ref\AprendaJa.Api.dll
+C:\Dev\AprendaJa\AprendaJa.Api\bin\Debug\net5.0\ref\AprendaJa.Api.dll
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\staticwebassets\AprendaJa.Api.StaticWebAssets.xml

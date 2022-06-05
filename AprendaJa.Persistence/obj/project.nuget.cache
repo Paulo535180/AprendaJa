@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "TCdOzZi1TSThzdv4WqX1VXkjieqGg23tDEyeyMfl41f0rErrey+qUq47ECyXaGuwPiFTpEsVnCOLaOE/aLyR+g==",
+  "dgSpecHash": "8vFRNybEI3qSetOyrmiHpnEqnOWk+WYhvnaf/dmtK2F03hurszafN6wO4UZ4vPaMGZmpF87S4PT/gh7tMAvnRw==",
   "success": true,
   "projectFilePath": "C:\\Dev\\AprendaJa\\AprendaJa.Persistence\\AprendaJa.Persistence.csproj",
   "expectedPackageFiles": [
@@ -100,10 +100,7 @@
     "C:\\Users\\paulo\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\paulo\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\paulo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+    "C:\\Users\\paulo\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
