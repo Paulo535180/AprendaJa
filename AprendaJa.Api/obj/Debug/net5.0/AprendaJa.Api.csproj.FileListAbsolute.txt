@@ -32,3 +32,12 @@ C:\devOut\AprendeJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.dll
 C:\devOut\AprendeJa\AprendaJa.Api\obj\Debug\net5.0\ref\AprendaJa.Api.dll
 C:\devOut\AprendeJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.pdb
 C:\devOut\AprendeJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.genruntimeconfig.cache
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.csproj.AssemblyReference.cache
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.AssemblyInfoInputs.cache
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.AssemblyInfo.cs
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.csproj.CoreCompileInputs.cache
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.dll
+C:\Dev\AprendaJa\AprendaJa.Api\obj\Debug\net5.0\AprendaJa.Api.pdb
