@@ -1,0 +1,17 @@
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Application.deps.json
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Application.dll
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\ref\AprendaJa.Application.dll
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Application.pdb
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Domain.dll
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Persistence.dll
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Domain.pdb
+C:\devOut\AprendeJa\AprendaJa.Application\bin\Debug\net5.0\AprendaJa.Persistence.pdb
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.csproj.AssemblyReference.cache
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.AssemblyInfoInputs.cache
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.AssemblyInfo.cs
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.csproj.CoreCompileInputs.cache
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.csproj.CopyComplete
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.dll
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\ref\AprendaJa.Application.dll
+C:\devOut\AprendeJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.pdb

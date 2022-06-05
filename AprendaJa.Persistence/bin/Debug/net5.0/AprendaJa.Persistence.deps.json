@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AprendaJa.Persistence/1.0.0": {
+        "dependencies": {
+          "AprendaJa.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AprendaJa.Persistence.dll": {}
+        }
+      },
+      "AprendaJa.Domain/1.0.0": {
+        "runtime": {
+          "AprendaJa.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AprendaJa.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AprendaJa.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

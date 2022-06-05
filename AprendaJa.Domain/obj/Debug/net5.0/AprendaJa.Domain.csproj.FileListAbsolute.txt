@@ -1,0 +1,12 @@
+C:\devOut\AprendeJa\AprendaJa.Domain\bin\Debug\net5.0\AprendaJa.Domain.deps.json
+C:\devOut\AprendeJa\AprendaJa.Domain\bin\Debug\net5.0\AprendaJa.Domain.dll
+C:\devOut\AprendeJa\AprendaJa.Domain\bin\Debug\net5.0\ref\AprendaJa.Domain.dll
+C:\devOut\AprendeJa\AprendaJa.Domain\bin\Debug\net5.0\AprendaJa.Domain.pdb
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.csproj.AssemblyReference.cache
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.AssemblyInfoInputs.cache
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.AssemblyInfo.cs
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.csproj.CoreCompileInputs.cache
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.dll
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\ref\AprendaJa.Domain.dll
+C:\devOut\AprendeJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.pdb
