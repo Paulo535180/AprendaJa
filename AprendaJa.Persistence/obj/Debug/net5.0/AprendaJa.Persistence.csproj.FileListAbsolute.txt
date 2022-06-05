@@ -27,7 +27,7 @@ C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.As
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.csproj.CoreCompileInputs.cache
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.csproj.CopyComplete
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.dll
-C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\refint\AprendaJa.Persistence.dll
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.pdb
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\AprendaJa.Persistence.genruntimeconfig.cache
 C:\Dev\AprendaJa\AprendaJa.Persistence\obj\Debug\net5.0\ref\AprendaJa.Persistence.dll
+C:\Dev\AprendaJa\AprendaJa.Persistence\bin\Debug\net5.0\ref\AprendaJa.Persistence.dll

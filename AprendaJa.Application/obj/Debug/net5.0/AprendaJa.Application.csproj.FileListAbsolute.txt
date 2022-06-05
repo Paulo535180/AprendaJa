@@ -29,6 +29,6 @@ C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.As
 C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.csproj.CoreCompileInputs.cache
 C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.csproj.CopyComplete
 C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.dll
-C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\refint\AprendaJa.Application.dll
 C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\AprendaJa.Application.pdb
 C:\Dev\AprendaJa\AprendaJa.Application\obj\Debug\net5.0\ref\AprendaJa.Application.dll
+C:\Dev\AprendaJa\AprendaJa.Application\bin\Debug\net5.0\ref\AprendaJa.Application.dll

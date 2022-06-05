@@ -19,6 +19,6 @@ C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.AssemblyInfo
 C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.AssemblyInfo.cs
 C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.csproj.CoreCompileInputs.cache
 C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.dll
-C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\refint\AprendaJa.Domain.dll
 C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\AprendaJa.Domain.pdb
 C:\Dev\AprendaJa\AprendaJa.Domain\obj\Debug\net5.0\ref\AprendaJa.Domain.dll
+C:\Dev\AprendaJa\AprendaJa.Domain\bin\Debug\net5.0\ref\AprendaJa.Domain.dll
